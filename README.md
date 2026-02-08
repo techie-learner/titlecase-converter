@@ -1,5 +1,5 @@
 # titlecase-converter
-This is the simplest titlecasecase converter made by me. It's my fifth python projects in GitHub. Used only using print, variables(used the .title()), input and while True function. I convert it to .exe using auto-py-to-exe.
+This is the simplest titlecase converter made by me. It's my fifth python projects in GitHub. Used only using print, variables(used the .title()), input and while True function. I convert it to .exe using auto-py-to-exe.
 
 It's very ease to use, just click it and the interface would open and paste your desired text and press enter and tada! It convert your text into titlecase form.
 
